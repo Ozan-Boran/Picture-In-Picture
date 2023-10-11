@@ -8,9 +8,8 @@ This project demonstrates the usage of the Picture-in-Picture API in a web appli
 - [Installation](#installation)
 - [Usage](#usage)
 - [JavaScript Methods](#javascript-methods)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Deployment](#deployment)
+  
 ## Features
 
 - Implements Picture-in-Picture functionality using the Web API.
@@ -58,3 +57,10 @@ This method is called when the user clicks the "START" button. It requests to en
 ### Error Handling
 
 In the JavaScript code, errors are caught using a `try-catch` block. If there are any errors during the attempt to enter Picture-in-Picture mode, they will be logged to the console for further debugging.
+
+## Deployment
+
+The project is deployed and can be accessed online at: https://ozan-boran.github.io/Picture-In-Picture/
+
+## Credits
+- **Developer:** Ozan Boran
